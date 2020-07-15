@@ -198,7 +198,7 @@ margin: 11px auto;
 .form1 input{
 width: 100%;
 font-size: 16px;
-padding: 7px 0px;
+padding: 7px 7px;
 border: 2px solid #6f6b6b;
 border-radius: 5px;
 margin: 16px 0px;
@@ -206,7 +206,7 @@ margin: 16px 0px;
 .text{
 width: 100%;
 font-size: 16px;
-padding: 7px 0px;
+padding: 7px 7px;
 border: 2px solid #6f6b6b;
 border-radius: 5px;
 margin: 16px 0px;
